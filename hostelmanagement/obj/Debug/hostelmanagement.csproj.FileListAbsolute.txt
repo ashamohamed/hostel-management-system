@@ -1,0 +1,33 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form2.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form3.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.exe.config
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.exe
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.pdb
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.exe
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\bin\Debug\hostelmanagement.pdb
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form1.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form2.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form3.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Properties.Resources.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.csproj.GenerateResource.Cache
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form4.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form5.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form6.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Form7.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.Rooms_not_occupied.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.view_studentscs.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.csprojResolveAssemblyReference.cache
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.staff_resitration.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.MDIParent1.resources
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\RdlCompile.cache
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\RdlCompile.compiled
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\bin\Debug\DGV Printer.dll
+C:\Users\AISHA\Desktop\hostelmanagement\hostelmanagement\obj\Debug\hostelmanagement.report_form.resources
